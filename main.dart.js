@@ -40752,7 +40752,7 @@ if(p!=null&&!p.j(0,q.x))q.G(new A.aug(q,p))
 return A.n(null,r)}})
 return A.o($async$x7,r)},
 H(a){var s,r,q,p,o,n,m=this,l=null,k=A.eK(l,l,!0,l,l,l,l,l,l,l,B.ZX),j=m.w,i=t.fo
-j=A.fw(B.bW,A.E(new A.K(A.a(["Bank Charges","Utilities","Logistics","Repair and Maintenace"],t.s),new A.aul(),i),!0,i.i("a5.E")),new A.aum(m),j,t.N)
+j=A.fw(B.bW,A.E(new A.K(A.a(["Bank Charges","Utilities","Logistics","Repair and Maintenace","miscellaneous"],t.s),new A.aul(),i),!0,i.i("a5.E")),new A.aum(m),j,t.N)
 i=A.bV(!1,m.f,B.bI,l,l,l,!1,l,l,l,new A.aun())
 s=A.bV(!1,m.r,B.cE,l,l,l,!1,l,l,l,new A.auo())
 r=A.bY(B.c5,new A.aup(m,a),l)
@@ -41033,7 +41033,7 @@ if(p!=null&&!p.j(0,q.x))q.G(new A.awi(q,p))
 return A.n(null,r)}})
 return A.o($async$x9,r)},
 H(a){var s,r,q,p,o,n,m=this,l=null,k=A.eK(l,l,!0,l,l,l,l,l,l,l,B.Zw),j=m.w,i=t.fo
-j=A.fw(B.bW,A.E(new A.K(A.a(["Bank Charges","Utilities","Logistics","Repair and Maintenace"],t.s),new A.awn(),i),!0,i.i("a5.E")),new A.awo(m),j,t.N)
+j=A.fw(B.bW,A.E(new A.K(A.a(["Bank Charges","Utilities","Logistics","Repair and Maintenace","miscellaneous"],t.s),new A.awn(),i),!0,i.i("a5.E")),new A.awo(m),j,t.N)
 i=A.bV(!1,m.f,B.bI,l,l,l,!1,l,l,l,new A.awp())
 s=A.bV(!1,m.r,B.cE,l,l,l,!1,l,l,l,new A.awq())
 r=A.bY(B.c5,new A.awr(m,a),l)
@@ -44940,7 +44940,7 @@ if(p!=null&&!p.j(0,q.x))q.G(new A.avl(q,p))
 return A.n(null,r)}})
 return A.o($async$y8,r)},
 H(a){var s,r,q,p,o,n,m=this,l=null,k=m.f,j=t.fo
-k=A.fw(B.bW,A.E(new A.K(A.a(["Utilities","Logistics","Bank Charges","Repair & Mainternance"],t.s),new A.avq(),j),!0,j.i("a5.E")),new A.avr(m),k,t.N)
+k=A.fw(B.bW,A.E(new A.K(A.a(["Utilities","Logistics","Bank Charges","Repair & Mainternance","miscellaneous"],t.s),new A.avq(),j),!0,j.i("a5.E")),new A.avr(m),k,t.N)
 j=A.bV(!1,m.r,B.bI,l,l,l,!1,l,l,l,new A.avs())
 s=A.bV(!1,m.w,B.cE,l,l,l,!1,l,l,l,new A.avt())
 r=A.bY(B.c5,new A.avu(m,a),l)
@@ -45411,7 +45411,7 @@ if(p!=null&&!p.j(0,q.y))q.G(new A.ax7(q,p))
 return A.n(null,r)}})
 return A.o($async$yo,r)},
 H(a){var s,r,q,p,o=this,n=null,m=A.eK(n,n,!0,n,n,n,n,n,n,n,B.a_i),l=o.w,k=t.s,j=t.fo,i=j.i("a5.E"),h=t.N
-l=A.fw(B.bW,A.E(new A.K(A.a(["Bank Charges","Utilities","Logistics","Repair and Maintenace","Ads"],k),new A.axd(),j),!0,i),new A.axe(o),l,h)
+l=A.fw(B.bW,A.E(new A.K(A.a(["Bank Charges","Utilities","Logistics","Repair and Maintenace","miscellaneous","Ads"],k),new A.axd(),j),!0,i),new A.axe(o),l,h)
 s=o.x
 h=A.fw(B.kj,A.E(new A.K(A.a(["Digital ads","Traditional ads","Photo shoots","Video Shoots","Give aways","Bill Boards",""],k),new A.axf(),j),!0,i),new A.axg(o),s,h)
 s=A.bV(!1,o.f,B.bI,n,n,n,!1,n,n,n,new A.axh())
@@ -45712,7 +45712,7 @@ if(p!=null&&!p.j(0,q.x))q.G(new A.ay5(q,p))
 return A.n(null,r)}})
 return A.o($async$yJ,r)},
 H(a){var s,r,q,p,o,n,m=this,l=null,k=m.w,j=t.fo
-k=A.fw(B.bW,A.E(new A.K(A.a(["Utilities","Logistics","Bank Charges","Repair & Mainternance"],t.s),new A.aya(),j),!0,j.i("a5.E")),new A.ayb(m),k,t.N)
+k=A.fw(B.bW,A.E(new A.K(A.a(["Utilities","Logistics","Bank Charges","Repair & Mainternance","miscellaneous"],t.s),new A.aya(),j),!0,j.i("a5.E")),new A.ayb(m),k,t.N)
 j=A.bV(!1,m.f,B.bI,l,l,l,!1,l,l,l,l)
 s=A.bV(!1,m.r,B.cE,l,l,l,!1,l,l,l,new A.ayc())
 r=A.bY(B.c5,new A.ayd(m,a),l)
@@ -46508,7 +46508,7 @@ if(p!=null&&!p.j(0,q.x))q.G(new A.aA6(q,p))
 return A.n(null,r)}})
 return A.o($async$yX,r)},
 H(a){var s,r,q,p,o,n,m=this,l=null,k=A.eK(l,l,!0,l,l,l,l,l,l,l,B.Zk),j=m.f,i=t.fo
-j=A.fw(B.bW,A.E(new A.K(A.a(["Utilities","Logistics","Bank Charges","Repair & Mainternance"],t.s),new A.aAb(),i),!0,i.i("a5.E")),new A.aAc(m),j,t.N)
+j=A.fw(B.bW,A.E(new A.K(A.a(["Utilities","Logistics","Bank Charges","Repair & Mainternance","miscellaneous"],t.s),new A.aAb(),i),!0,i.i("a5.E")),new A.aAc(m),j,t.N)
 i=A.bV(!1,m.r,B.bI,l,l,l,!1,l,l,l,new A.aAd())
 s=A.bV(!1,m.w,B.cE,l,l,l,!1,l,l,l,new A.aAe())
 r=A.bY(B.c5,new A.aAf(m,a),l)
