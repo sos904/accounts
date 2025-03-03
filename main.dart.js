@@ -7940,7 +7940,7 @@ _.w=d
 _.x=e
 _.y=f
 _.z=g
-_.db=_.cy=_.cx=_.ch=_.ay=_.ax=_.at=_.as=0
+_.dy=_.db=_.cy=_.cx=_.ch=_.ay=_.ax=_.at=_.as=0
 _.c=_.a=null},
 aq0:function aq0(a,b){this.a=a
 this.b=b},
@@ -44567,29 +44567,30 @@ A.av(p,q,!0)
 q=A.bj(new A.aK(p))
 A.aY(q,q.gan().aC("reports")).iG().eX(new A.aq5(this))},
 qn(){this.G(new A.aqw(this))},
-amj(a){var s,r,q,p,o,n,m,l,k,j,i="collection",h="products",g="totalAmount",f="name",e={}
-e.a=e.b=e.c=e.d=e.e=e.f=0
-for(s=a.length,r=0,q=0;q<a.length;a.length===s||(0,A.Q)(a),++q){p=a[q]
-o=J.ah(p)
-if(J.c(o.h(p,i),"Kaftan_Report")){n=A.a_k(o.h(p,"totalCosts"))
-m=n==null?null:n
-if(m==null)m=0
-e.f+=m
-if(o.h(p,h)!=null)for(o=J.aV(o.h(p,h));o.v();){l=o.gL()
-n=J.ah(l)
-k=A.a_k(n.h(l,g))
-j=k==null?null:k
-if(j==null)j=0
-if(J.c(n.h(l,f),"Lapel Top & Down")||B.d.p(J.a8(n.h(l,f)).toLowerCase(),"lapel"))e.c+=j
-else if(J.c(n.h(l,f),"Jacket")||B.d.p(J.a8(n.h(l,f)).toLowerCase(),"jacket"))r+=j
-else if(J.c(n.h(l,f),"Kaftan")||B.d.p(J.a8(n.h(l,f)).toLowerCase(),"kaftan"))e.b+=j
-else if(J.c(n.h(l,f),"3 pcs Agbada")||B.d.p(J.a8(n.h(l,f)).toLowerCase(),"agbada"))e.a+=j}}else if(J.c(o.h(p,i),"reports"))if(o.h(p,h)!=null)for(o=J.aV(o.h(p,h));o.v();){l=o.gL()
-n=J.ah(l)
-k=A.a_k(n.h(l,g))
-j=k==null?null:k
-if(j==null)j=0
-if(J.c(n.h(l,"tag"),"SD"))e.e+=j
-else e.d+=j}}this.G(new A.aqs(e,this))},
+amj(a){var s,r,q,p,o,n,m,l,k,j,i="collection",h="products",g="totalAmount",f={}
+f.a=f.b=f.c=f.d=f.e=f.f=f.r=0
+for(s=a.length,r=0;r<a.length;a.length===s||(0,A.Q)(a),++r){q=a[r]
+p=J.ah(q)
+if(J.c(p.h(q,i),"Kaftan_Report")){o=A.a_k(p.h(q,"totalCosts"))
+n=o==null?null:o
+if(n==null)n=0
+f.r+=n
+if(p.h(q,h)!=null)for(p=J.aV(p.h(q,h));p.v();){m=p.gL()
+o=J.ah(m)
+l=A.a_k(o.h(m,g))
+k=l==null?null:l
+if(k==null)k=0
+j=A.ao(o.h(m,"format"))
+if(j!=null)if(B.d.p(j.toLowerCase(),"lapel"))f.d+=k
+else if(B.d.p(j.toLowerCase(),"jacket"))f.c+=k
+else if(B.d.p(j.toLowerCase(),"kaftan"))f.a+=k
+else if(B.d.p(j.toLowerCase(),"agbada"))f.b+=k}}else if(J.c(p.h(q,i),"reports"))if(p.h(q,h)!=null)for(p=J.aV(p.h(q,h));p.v();){m=p.gL()
+o=J.ah(m)
+l=A.a_k(o.h(m,g))
+k=l==null?null:l
+if(k==null)k=0
+if(J.c(o.h(m,"tag"),"SD"))f.f+=k
+else f.e+=k}}this.G(new A.aqs(f,this))},
 y6(a){return this.ah2(a)},
 ah2(a){var s=0,r=A.p(t.H),q=this,p,o
 var $async$y6=A.q(function(b,c){if(b===1)return A.m(c,r)
@@ -44619,7 +44620,7 @@ q=A.b7(A.a([A.bY(B.Z6,new A.aqq(k,a),j),B.c0,A.bY(B.B0,new A.aqr(k),j)],h),B.i,B
 n=A.bF(a,j,t.w).w
 m=A.dG(B.aw)
 l=A.bR(8)
-return A.di(i,j,new A.aq(B.cd,A.aF(A.a([g,A.aM(A.aF(A.a([A.b7(A.a([new A.aq(B.ah,r,j),new A.aq(B.ah,A.c8(j,A.aF(A.a([q,B.a0,A.bK(A.aM(A.c8(j,A.aF(A.a([k.l_("Combined Total",k.ax,B.kN),B.a0,k.l_("Shirts & SD",k.at,B.vg),B.a0,k.l_("Klassics Total",k.as,B.cH),B.a0,k.l_("Shirts Total",k.ch,B.ib),B.a0,k.l_("SD Total",k.ay,B.aX),B.a0,k.l_("Lapel",k.cx,B.kN),B.a0,k.l_("Kaftan",0,B.vd),B.a0,k.l_("3 pcs Agbada",k.db,B.vf),B.a0,k.l_("Jacket",k.cy,B.ve),B.a0],h),B.i,B.h,B.l),B.z,j,new A.bI(B.o,j,m,l,j,j,B.R),j,j,j,B.a6,j,j,j),j,B.e,j,j,B.F),n.a.b/2,j)],h),B.b3,B.h,B.l),B.z,j,new A.bI(B.o,j,s,p,j,j,B.R),j,j,j,B.a6,j,j,730),j)],h),B.i,B.h,B.l,j)],h),B.i,B.h,B.l),j,B.e,j,j,B.I)],h),B.i,B.h,B.l),j),B.a2b)}}
+return A.di(i,j,new A.aq(B.cd,A.aF(A.a([g,A.aM(A.aF(A.a([A.b7(A.a([new A.aq(B.ah,r,j),new A.aq(B.ah,A.c8(j,A.aF(A.a([q,B.a0,A.bK(A.aM(A.c8(j,A.aF(A.a([k.l_("Combined Total",k.ax,B.kN),B.a0,k.l_("Shirts & SD",k.at,B.vg),B.a0,k.l_("Klassics Total",k.as,B.cH),B.a0,k.l_("Shirts Total",k.ch,B.ib),B.a0,k.l_("SD Total",k.ay,B.aX),B.a0,k.l_("Lapel",k.cx,B.kN),B.a0,k.l_("Kaftan",k.dy,B.vd),B.a0,k.l_("3 pcs Agbada",k.db,B.vf),B.a0,k.l_("Jacket",k.cy,B.ve),B.a0],h),B.i,B.h,B.l),B.z,j,new A.bI(B.o,j,m,l,j,j,B.R),j,j,j,B.a6,j,j,j),j,B.e,j,j,B.F),n.a.b/2,j)],h),B.b3,B.h,B.l),B.z,j,new A.bI(B.o,j,s,p,j,j,B.R),j,j,j,B.a6,j,j,730),j)],h),B.i,B.h,B.l,j)],h),B.i,B.h,B.l),j,B.e,j,j,B.I)],h),B.i,B.h,B.l),j),B.a2b)}}
 A.aq0.prototype={
 $0(){var s=this.b,r=A.I(s).i("K<1,ae<l,@>>")
 this.a.z=A.E(new A.K(s,new A.aq_(),r),!0,r.i("a5.E"))},
@@ -44759,18 +44760,19 @@ if(o){if(!s.fY(p.fG(864e8))){o=s.a===p.a&&s.b===p.b
 n=o}}else n=!1}return n},
 $S:2}
 A.aqs.prototype={
-$0(){var s,r,q,p=this.b,o=this.a,n=o.f
+$0(){var s,r,q,p=this.b,o=this.a,n=o.r
 p.as=n
-s=o.d
-r=o.e
+s=o.e
+r=o.f
 q=s+r
 p.at=q
 p.ax=n+q
 p.ay=r
 p.ch=s
-p.cx=o.c
-p.cy=o.b
-p.db=o.a},
+p.cx=o.d
+p.cy=o.c
+p.db=o.b
+p.dy=o.a},
 $S:0}
 A.aq1.prototype={
 $0(){this.a.r=this.b},
