@@ -44444,7 +44444,7 @@ A.ci(c,"Please fill in all fields.")
 case 3:return A.o(null,r)
 case 1:return A.n(p,r)}})
 return A.p($async$nv,r)},
-G(a){var s=this,r=null,q=A.bY(12),p=A.a([new A.bF(5,B.a1,B.hc,B.h,10)],t.V),o=A.cg(r,r,B.v,r,B.mw,r,80,r,r,r,r,80),n=A.ch(!1,s.d,A.q0(r,new A.fg(4,A.bY(10),B.dP),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Username",r,B.JG,r,r,r,r,r,r,r,r,r,r,r),r,r,r,!1,r,r,r,r),m=A.ch(!1,s.e,A.q0(r,new A.fg(4,A.bY(10),B.dP),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Password",r,B.JA,r,r,r,r,r,r,r,r,r,r,r),r,r,r,!0,r,r,r,new A.avv()),l=A.hx(r,r,B.b2,r,r,r,r,r,r,B.q,r,B.br,r,r,new A.c0(A.bY(10),B.p),r,r,r,r),k=s.r?B.mW:B.Zo
+G(a){var s=this,r=null,q=A.bY(12),p=A.a([new A.bF(5,B.a1,B.hc,B.h,10)],t.V),o=A.cg(r,r,B.v,r,B.mw,r,80,r,r,r,r,80),n=A.ch(!1,s.d,A.q0(r,new A.fg(4,A.bY(10),B.dP),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Username",r,B.JH,r,r,r,r,r,r,r,r,r,r,r),r,r,r,!1,r,r,r,r),m=A.ch(!1,s.e,A.q0(r,new A.fg(4,A.bY(10),B.dP),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Password",r,B.JA,r,r,r,r,r,r,r,r,r,r,r),r,r,r,!0,r,r,r,new A.avv()),l=A.hx(r,r,B.b2,r,r,r,r,r,r,B.q,r,B.br,r,r,new A.c0(A.bY(10),B.p),r,r,r,r),k=s.r?B.mW:B.Zo
 return A.dz(r,r,A.eI(A.Mj(r,A.bk(A.cg(r,A.aR(A.a([o,B.Zy,B.bG,n,B.cC,m,B.Al,A.bo(A.cp(k,new A.avw(s),l),r,1/0),B.lA,A.b9(B.a_c,new A.avx(a),r)],t.p),B.k,B.j,B.Z),B.v,B.mu,new A.bS(B.n,r,r,q,p,r,B.W),r,r,r,B.nW,r,r,r),r,B.f,B.cq,r,B.H),s.f),r,r),r)}}
 A.avr.prototype={
 $0(){this.a.r=!0},
@@ -44579,7 +44579,7 @@ return A.u(A.b5(p,p.gaz().aK("notes_accounts")).bL(a).a.es(),$async$xx)
 case 2:return A.o(null,r)}})
 return A.p($async$xx,r)},
 G(a){var s=this,r=null,q=s.e
-return A.dz(A.eq(r,r,!0,r,r,r,r,r,r,r,B.AZ),r,A.aR(A.a([new A.aF(B.af,A.bh(!0,B.y,!1,r,!0,B.o,r,A.bi(),s.d,r,r,r,r,r,2,A.q0(r,new A.fg(4,B.dO,B.dP),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter Note",r,r,r,r,r,r,r,r,A.bs(r,B.JH,s.ga5g(),r,r,r),r,r,r,r),B.f,!0,r,!0,r,!1,r,B.A,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,!1,r,!0,r,B.C,r,r,B.x,B.w,r,r,r,r,r,r,r,B.r,r,B.E,r,r,r,r),r),A.dE(A.aj_(new A.aw7(s),A.b5(q,q.gaz().aK("notes_accounts")).XP("timestamp",!0).hw(),t.cG),1)],t.p),B.k,B.j,B.m),r)}}
+return A.dz(A.eq(r,r,!0,r,r,r,r,r,r,r,B.AZ),r,A.aR(A.a([new A.aF(B.af,A.bh(!0,B.y,!1,r,!0,B.o,r,A.bi(),s.d,r,r,r,r,r,2,A.q0(r,new A.fg(4,B.dO,B.dP),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter Note",r,r,r,r,r,r,r,r,A.bs(r,B.JJ,s.ga5g(),r,r,r),r,r,r,r),B.f,!0,r,!0,r,!1,r,B.A,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,!1,r,!0,r,B.C,r,r,B.x,B.w,r,r,r,r,r,r,r,B.r,r,B.E,r,r,r,r),r),A.dE(A.aj_(new A.aw7(s),A.b5(q,q.gaz().aK("notes_accounts")).XP("timestamp",!0).hw(),t.cG),1)],t.p),B.k,B.j,B.m),r)}}
 A.aw7.prototype={
 $2(a,b){var s,r=b.b
 if(r==null)return B.d9
@@ -45812,7 +45812,7 @@ case 5:return A.o(null,r)
 case 1:return A.n(p,r)}})
 return A.p($async$pv,r)},
 G(a){var s=null,r=t.p
-return new A.LH(A.aLm(A.a([B.HZ,A.iq(s,s,s,!0,B.ow,s,new A.aE3(a),s,B.a_a,s,s),A.aKq(A.a([A.iq(s,s,s,!0,B.fd,s,new A.aE4(a),s,B.a_u,s,s),A.iq(s,s,s,!0,B.fd,s,new A.aE5(a),s,B.ZD,s,s),A.iq(s,s,s,!0,B.fd,s,new A.aE6(a),s,B.ZZ,s,s)],r),B.JB,B.Zp),A.iq(s,s,s,!0,B.JF,s,new A.aE7(a),s,B.Bd,s,s),A.iq(s,s,s,!0,B.ow,s,new A.aE8(a),s,B.B_,s,s),A.aKq(A.a([A.iq(s,s,s,!0,B.fd,s,new A.aE9(a),s,B.B3,s,s),A.iq(s,s,s,!0,B.fd,s,new A.aEa(a),s,B.B5,s,s)],r),B.Jz,B.ZC),A.iq(s,s,s,!0,B.JK,s,new A.aEb(a),s,B.AZ,s,s),A.iq(s,s,s,!0,B.JC,s,new A.aEc(this,a),s,B.a__,s,s)],r),B.ar,s,!1),s)}}
+return new A.LH(A.aLm(A.a([B.HZ,A.iq(s,s,s,!0,B.ow,s,new A.aE3(a),s,B.a_a,s,s),A.aKq(A.a([A.iq(s,s,s,!0,B.fd,s,new A.aE4(a),s,B.a_u,s,s),A.iq(s,s,s,!0,B.fd,s,new A.aE5(a),s,B.ZD,s,s),A.iq(s,s,s,!0,B.fd,s,new A.aE6(a),s,B.ZZ,s,s)],r),B.JB,B.Zp),A.iq(s,s,s,!0,B.JG,s,new A.aE7(a),s,B.Bd,s,s),A.iq(s,s,s,!0,B.ow,s,new A.aE8(a),s,B.B_,s,s),A.aKq(A.a([A.iq(s,s,s,!0,B.fd,s,new A.aE9(a),s,B.B3,s,s),A.iq(s,s,s,!0,B.fd,s,new A.aEa(a),s,B.B5,s,s)],r),B.Jz,B.ZC),A.iq(s,s,s,!0,B.JE,s,new A.aEb(a),s,B.AZ,s,s),A.iq(s,s,s,!0,B.JC,s,new A.aEc(this,a),s,B.a__,s,s)],r),B.ar,s,!1),s)}}
 A.aDU.prototype={
 $1(a){return B.kH},
 $S:136}
@@ -53580,7 +53580,7 @@ return new A.Fg(s.r,s.d,this.gaaT(),s.e,s.f,r,s.y,new A.dR(r,t.tJ))},
 G(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.O(a).ax.k3.a,i=A.U(153,j>>>16&255,j>>>8&255,j&255)
 if(l.gFd())j=k
 else{l.r===$&&A.b()
-j="Previous month"}j=A.bs(i,B.JJ,l.gFd()?k:l.gacB(),k,k,j)
+j="Previous month"}j=A.bs(i,B.JK,l.gFd()?k:l.gacB(),k,k,j)
 if(l.gFe())s=k
 else{l.r===$&&A.b()
 s="Next month"}r=t.p
@@ -57206,7 +57206,7 @@ this.a.toString
 if(this.a8U(null)!==B.oK)return null
 s=this.y
 s===$&&A.b()
-return A.agU(B.JE,s)},
+return A.agU(B.JF,s)},
 a5O(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=A.O(a),e=A.a5T(a),d=h.ax
 d===$&&A.b()
 d=d.b.ab(d.a.gm())
@@ -98515,10 +98515,12 @@ B.JB=new A.dg(B.oq,null,null,null,null)
 B.Jp=new A.cC(58244,!0)
 B.fd=new A.dg(B.Jp,null,null,null,null)
 B.JD=new A.dg(B.oo,null,null,null,null)
+B.Jt=new A.cC(58442,!1)
+B.JE=new A.dg(B.Jt,null,B.q,null,null)
 B.Jm=new A.cC(57926,!1)
-B.JE=new A.dg(B.Jm,null,null,null,null)
+B.JF=new A.dg(B.Jm,null,null,null,null)
 B.Ja=new A.cC(57408,!1)
-B.JF=new A.dg(B.Ja,null,null,null,null)
+B.JG=new A.dg(B.Ja,null,null,null,null)
 B.Jk=new A.cC(57882,!1)
 B.Fv=new A.j(4284790262)
 B.Fj=new A.j(4282557941)
@@ -98527,27 +98529,25 @@ B.EV=new A.j(4279060385)
 B.OK=new A.c3([50,B.ni,100,B.nf,200,B.nd,300,B.Fv,400,B.Fj,500,B.na,600,B.n8,700,B.n7,800,B.EX,900,B.EV],t.pl)
 B.cy=new A.fy(B.OK,4280391411)
 B.bi=new A.dg(B.Jk,null,B.cy,null,null)
-B.Jt=new A.cC(58513,!1)
-B.JG=new A.dg(B.Jt,null,null,null,null)
-B.Jb=new A.cC(57415,!1)
-B.JH=new A.dg(B.Jb,null,null,null,null)
+B.Ju=new A.cC(58513,!1)
+B.JH=new A.dg(B.Ju,null,null,null,null)
 B.Jo=new A.cC(58172,!1)
 B.ou=new A.dg(B.Jo,null,B.n,null,null)
 B.Jf=new A.cC(57695,!0)
 B.JI=new A.dg(B.Jf,null,null,null,null)
+B.Jb=new A.cC(57415,!1)
+B.JJ=new A.dg(B.Jb,null,B.q,null,null)
 B.hL=new A.dg(B.oq,null,B.cy,null,null)
 B.Je=new A.cC(57694,!0)
-B.JJ=new A.dg(B.Je,null,null,null,null)
-B.Jv=new A.cC(61698,!1)
-B.hM=new A.dg(B.Jv,null,null,null,null)
+B.JK=new A.dg(B.Je,null,null,null,null)
+B.Jw=new A.cC(61698,!1)
+B.hM=new A.dg(B.Jw,null,null,null,null)
 B.Jn=new A.cC(58132,!1)
 B.ov=new A.dg(B.Jn,null,null,null,null)
 B.Jc=new A.cC(57508,!1)
 B.ow=new A.dg(B.Jc,null,null,null,null)
 B.Ji=new A.cC(57782,!1)
 B.ox=new A.dg(B.Ji,null,null,null,null)
-B.Jw=new A.cC(983072,!1)
-B.JK=new A.dg(B.Jw,null,null,null,null)
 B.Jl=new A.cC(57898,!1)
 B.JL=new A.dg(B.Jl,null,null,null,null)
 B.Jd=new A.cC(57634,!1)
@@ -98577,8 +98577,8 @@ B.K0=new A.cr(null,null,null,"Transaction Type",null,null,null,null,null,null,nu
 B.hO=new A.cr(null,null,null,"Payment Amount",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
 B.K1=new A.cr(null,null,null,"Method",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aZ,!0,null,null,null)
 B.hP=new A.cr(null,null,null,"initial_date_owe",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
-B.Ju=new A.cC(58727,!1)
-B.ot=new A.dg(B.Ju,null,null,null,null)
+B.Jv=new A.cC(58727,!1)
+B.ot=new A.dg(B.Jv,null,null,null,null)
 B.oA=new A.cr(null,null,null,null,null,null,null,null,null,null,"Search Creditors",null,null,null,null,null,null,null,null,null,null,null,null,null,B.ot,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
 B.oB=new A.cr(null,null,null,null,null,null,null,null,null,null,"Search Debtors",null,null,null,null,null,null,null,null,null,null,null,null,null,B.ot,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
 B.ea=new A.cr(null,null,null,"Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aZ,!0,null,null,null)
