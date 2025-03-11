@@ -40636,7 +40636,7 @@ case 5:return A.o(null,r)
 case 1:return A.n(p,r)}})
 return A.p($async$lb,r)},
 G(a){var s,r,q,p,o,n,m=this,l=null,k=A.es(l,l,!0,l,l,l,l,l,l,l,B.ZU),j=m.f,i=t.fo
-j=A.n8(B.eb,A.H(new A.P(A.a(["Marketing","Utilities","Stationaries","Tioletories","Logistics","Miscellaneous","Bank Charges"],t.s),new A.awL(),i),!0,i.i("a4.E")),new A.awM(m),j,t.N)
+j=A.n8(B.eb,A.H(new A.P(A.a(["Marketing","Utilities","Stationaries","Tioletories","Logistics","Miscellaneous","Maintenance","Bank Charges"],t.s),new A.awL(),i),!0,i.i("a4.E")),new A.awM(m),j,t.N)
 i=A.ci(!1,m.r,B.dj,l,l,l,!1,l,l,l,new A.awN())
 s=A.ci(!1,m.w,B.hQ,l,l,l,!1,l,l,l,new A.awO())
 r=A.cq(B.eE,new A.awP(m,a),l)
